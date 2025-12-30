@@ -24,6 +24,5 @@ This project demonstrates how to perform **data analysis on house pricing data**
 ## Getting Started
 
 1. **Clone the repository**
-https://github.com/ANKVIT26/Data-analysis-house-pricing-mongodb-aggregation
-
+git clone https://github.com/ANKVIT26/Data-analysis-house-pricing-mongodb-aggregation.git
 
