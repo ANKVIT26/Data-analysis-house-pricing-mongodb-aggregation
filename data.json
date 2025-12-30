@@ -1,0 +1,450 @@
+{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}
+{"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}
+{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}
+{"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}
+{"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}
+{"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}
+{"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}
+{"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}
+{"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}
+{"location": "69479601d6b16406e163b113", "price": 8000000, "floorrooms": 17}
+{"location": "69479702d6b16406e163b116", "price": 8650000, "floorrooms": 17}
+{"location": "694796d6d6b16406e163b115", "price": 8400000, "floorrooms": 17}
+{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}
+{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}
+{"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}
+{"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}
+{"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}
+{"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}
+{"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}
+{"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}
+{"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}
+{"location": "694796d6d6b16406e163b115", "price": 8400000, "floorrooms": 17}
+{"location": "69479702d6b16406e163b116", "price": 8650000, "floorrooms": 17}
+{"location": "69479601d6b16406e163b113", "price": 8000000, "floorrooms": 17}
+[{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}]
+[{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}]
+[{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}]
+[{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}]
+[{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}]
+[{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}]
+[{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}]
+[{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}]
+[{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}]
+[{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "69479702d6b16406e163b116", "price": 8650000, "floorrooms": 17}]
+[{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "69479702d6b16406e163b116", "price": 8650000, "floorrooms": 17}, {"location": "69479601d6b16406e163b113", "price": 8000000, "floorrooms": 17}]
+[{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "69479702d6b16406e163b116", "price": 8650000, "floorrooms": 17}, {"location": "69479601d6b16406e163b113", "price": 8000000, "floorrooms": 17}, {"location": "694796d6d6b16406e163b115", "price": 8400000, "floorrooms": 17}]
+[{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}][{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}][{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}][{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}][{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}][{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}][{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}][{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}][{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}][{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "69479702d6b16406e163b116", "price": 8650000, "floorrooms": 17}][{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "69479702d6b16406e163b116", "price": 8650000, "floorrooms": 17}, {"location": "694796d6d6b16406e163b115", "price": 8400000, "floorrooms": 17}][{"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "69479702d6b16406e163b116", "price": 8650000, "floorrooms": 17}, {"location": "694796d6d6b16406e163b115", "price": 8400000, "floorrooms": 17}, {"location": "69479601d6b16406e163b113", "price": 8000000, "floorrooms": 17}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}, {"location": "69479702d6b16406e163b116", "price": 8650000, "floorrooms": 17}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}, {"location": "69479702d6b16406e163b116", "price": 8650000, "floorrooms": 17}, {"location": "69479601d6b16406e163b113", "price": 8000000, "floorrooms": 17}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}, {"location": "69479702d6b16406e163b116", "price": 8650000, "floorrooms": 17}, {"location": "69479601d6b16406e163b113", "price": 8000000, "floorrooms": 17}, {"location": "694796d6d6b16406e163b115", "price": 8400000, "floorrooms": 17}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694796d6d6b16406e163b115", "price": 8400000, "floorrooms": 17}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694796d6d6b16406e163b115", "price": 8400000, "floorrooms": 17}, {"location": "69479702d6b16406e163b116", "price": 8650000, "floorrooms": 17}][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694796d6d6b16406e163b115", "price": 8400000, "floorrooms": 17}, {"location": "69479702d6b16406e163b116", "price": 8650000, "floorrooms": 17}, {"location": "69479601d6b16406e163b113", "price": 8000000, "floorrooms": 17}][
+  {
+    "location": "694eaf1c15cbb19368294dd6",
+    "price": 4000000,
+    "floorrooms": 4
+  }
+][
+  {
+    "location": "694eaf1c15cbb19368294dd6",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eafe1178f5567f60ed94f",
+    "price": 4000000,
+    "floorrooms": 4
+  }
+][
+  {
+    "location": "694eaf1c15cbb19368294dd6",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eafe1178f5567f60ed94f",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eb0321204cfe66933f853",
+    "price": 4000000,
+    "floorrooms": 4
+  }
+][
+  {
+    "location": "694eaf1c15cbb19368294dd6",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eafe1178f5567f60ed94f",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eb0321204cfe66933f853",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eb0321204cfe66933f854",
+    "price": 4050000,
+    "floorrooms": 9
+  }
+][
+  {
+    "location": "694eaf1c15cbb19368294dd6",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eafe1178f5567f60ed94f",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eb0321204cfe66933f853",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eb0321204cfe66933f854",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eafe1178f5567f60ed950",
+    "price": 4050000,
+    "floorrooms": 9
+  }
+][
+  {
+    "location": "694eaf1c15cbb19368294dd6",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eafe1178f5567f60ed94f",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eb0321204cfe66933f853",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eb0321204cfe66933f854",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eafe1178f5567f60ed950",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eaf1c15cbb19368294dd7",
+    "price": 4050000,
+    "floorrooms": 9
+  }
+][
+  {
+    "location": "694eaf1c15cbb19368294dd6",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eafe1178f5567f60ed94f",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eb0321204cfe66933f853",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eb0321204cfe66933f854",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eafe1178f5567f60ed950",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eaf1c15cbb19368294dd7",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eb0321204cfe66933f855",
+    "price": 4900000,
+    "floorrooms": 11
+  }
+][
+  {
+    "location": "694eaf1c15cbb19368294dd6",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eafe1178f5567f60ed94f",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eb0321204cfe66933f853",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eb0321204cfe66933f854",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eafe1178f5567f60ed950",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eaf1c15cbb19368294dd7",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eb0321204cfe66933f855",
+    "price": 4900000,
+    "floorrooms": 11
+  },
+  {
+    "location": "694eaf1c15cbb19368294dd8",
+    "price": 4900000,
+    "floorrooms": 11
+  }
+][
+  {
+    "location": "694eaf1c15cbb19368294dd6",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eafe1178f5567f60ed94f",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eb0321204cfe66933f853",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eb0321204cfe66933f854",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eafe1178f5567f60ed950",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eaf1c15cbb19368294dd7",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eb0321204cfe66933f855",
+    "price": 4900000,
+    "floorrooms": 11
+  },
+  {
+    "location": "694eaf1c15cbb19368294dd8",
+    "price": 4900000,
+    "floorrooms": 11
+  },
+  {
+    "location": "694eafe1178f5567f60ed951",
+    "price": 4900000,
+    "floorrooms": 11
+  }
+][
+  {
+    "location": "694eaf1c15cbb19368294dd6",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eafe1178f5567f60ed94f",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eb0321204cfe66933f853",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eb0321204cfe66933f854",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eafe1178f5567f60ed950",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eaf1c15cbb19368294dd7",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eb0321204cfe66933f855",
+    "price": 4900000,
+    "floorrooms": 11
+  },
+  {
+    "location": "694eaf1c15cbb19368294dd8",
+    "price": 4900000,
+    "floorrooms": 11
+  },
+  {
+    "location": "694eafe1178f5567f60ed951",
+    "price": 4900000,
+    "floorrooms": 11
+  },
+  {
+    "location": "69479702d6b16406e163b116",
+    "price": 8650000,
+    "floorrooms": 17
+  }
+][
+  {
+    "location": "694eaf1c15cbb19368294dd6",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eafe1178f5567f60ed94f",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eb0321204cfe66933f853",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eb0321204cfe66933f854",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eafe1178f5567f60ed950",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eaf1c15cbb19368294dd7",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eb0321204cfe66933f855",
+    "price": 4900000,
+    "floorrooms": 11
+  },
+  {
+    "location": "694eaf1c15cbb19368294dd8",
+    "price": 4900000,
+    "floorrooms": 11
+  },
+  {
+    "location": "694eafe1178f5567f60ed951",
+    "price": 4900000,
+    "floorrooms": 11
+  },
+  {
+    "location": "69479702d6b16406e163b116",
+    "price": 8650000,
+    "floorrooms": 17
+  },
+  {
+    "location": "69479601d6b16406e163b113",
+    "price": 8000000,
+    "floorrooms": 17
+  }
+][
+  {
+    "location": "694eaf1c15cbb19368294dd6",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eafe1178f5567f60ed94f",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eb0321204cfe66933f853",
+    "price": 4000000,
+    "floorrooms": 4
+  },
+  {
+    "location": "694eb0321204cfe66933f854",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eafe1178f5567f60ed950",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eaf1c15cbb19368294dd7",
+    "price": 4050000,
+    "floorrooms": 9
+  },
+  {
+    "location": "694eb0321204cfe66933f855",
+    "price": 4900000,
+    "floorrooms": 11
+  },
+  {
+    "location": "694eaf1c15cbb19368294dd8",
+    "price": 4900000,
+    "floorrooms": 11
+  },
+  {
+    "location": "694eafe1178f5567f60ed951",
+    "price": 4900000,
+    "floorrooms": 11
+  },
+  {
+    "location": "69479702d6b16406e163b116",
+    "price": 8650000,
+    "floorrooms": 17
+  },
+  {
+    "location": "69479601d6b16406e163b113",
+    "price": 8000000,
+    "floorrooms": 17
+  },
+  {
+    "location": "694796d6d6b16406e163b115",
+    "price": 8400000,
+    "floorrooms": 17
+  }
+][{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}]
+[{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}]
+[{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}]
+[{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}]
+[{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}]
+[{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}]
+[{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}]
+[{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}]
+[{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}]
+[{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}, {"location": "69479601d6b16406e163b113", "price": 8000000, "floorrooms": 17}]
+[{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}, {"location": "69479601d6b16406e163b113", "price": 8000000, "floorrooms": 17}, {"location": "69479702d6b16406e163b116", "price": 8650000, "floorrooms": 17}]
+[{"location": "694eafe1178f5567f60ed94f", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f853", "price": 4000000, "floorrooms": 4}, {"location": "694eaf1c15cbb19368294dd6", "price": 4000000, "floorrooms": 4}, {"location": "694eb0321204cfe66933f854", "price": 4050000, "floorrooms": 9}, {"location": "694eaf1c15cbb19368294dd7", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed950", "price": 4050000, "floorrooms": 9}, {"location": "694eafe1178f5567f60ed951", "price": 4900000, "floorrooms": 11}, {"location": "694eb0321204cfe66933f855", "price": 4900000, "floorrooms": 11}, {"location": "694eaf1c15cbb19368294dd8", "price": 4900000, "floorrooms": 11}, {"location": "69479601d6b16406e163b113", "price": 8000000, "floorrooms": 17}, {"location": "69479702d6b16406e163b116", "price": 8650000, "floorrooms": 17}, {"location": "694796d6d6b16406e163b115", "price": 8400000, "floorrooms": 17}]

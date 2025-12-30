@@ -1,0 +1,41 @@
+show databases; //view all databasesshow collections 
+show collections;//table (group of docs)
+db.collection_name.find({}); || db.colection_name({}).limit(5).pretty();
+or 
+db.getCollection('login').find({});// gets all 
+
+//query to find 
+db.students.find({$and:[{age:{$lte:29}},{gpa:{$gt:2}}]});
+
+db.login.updateOne({filter},{update})
+// delete where criteria satisfies
+db.login.deleteMany({fullTime:false})
+db.login.deleteMany({registerdate:{$exists:false}})
+Comparison operators: $(equals), $ne(not equals)
+less than-- $lt, $lte--less than equals
+greater than-- gt, $gte- greater than equals to
+db.login.find({name:{$in:["Ram","Hanuman","SpoogyDooby"]}})
+logical operator-- db.login.find({$and:[{fullTime:true},{age:{$lte:22}}]}) ;;
+db.login.find({$or:[{gpa:{$lte:10}},{age:{$gt:12}}]})
+OR - db.login.find({$and:[{fullTime:true},{age:{$lte:22}}]})
+NOR- nor
+db.students.find({$and:[{age:{lte:40}},{gpa:{$gt:6}}]}).explain("executionStats")
+Indexes
+executionStats(linear search)
+speed up with index(Binary search)
+db.createCollection("teachers",{capped:true,size:1000000,max:100},{autoindexId:false})
+auto index index
+
+//Basics of aggregation pipeline
+aggregate: db.login.aggregate([
+  { $match: { age: { $gt: 20 } } },
+  {
+    $project: {
+      _id: 0,
+      age: 1,
+      fullTime: { $literal: false }
+    }
+  }
+])
+
+
